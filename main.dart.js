@@ -74422,7 +74422,7 @@ s=j.r
 r=A.bZ(h,i,i,s?A.ay(i,i,i,i,i,i,i,i,i,i,i,$.C().ab(12),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).bA(g,B.z):A.ay(i,i,i,i,i,i,i,i,i,i,i,$.C().ab(21),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).bA(g,B.z))
 q=t.p
 p=A.a([],q)
-if(j.e!=null){o=$.C()
+o=$.C()
 o=A.hh(10*Math.min(o.gbm(),o.gao()))
 n=$.C()
 n=A.hh(20*Math.min(n.gbm(),n.gao()))
@@ -74431,7 +74431,8 @@ l=s?50*$.C().gbm():100*$.C().gbm()
 m=A.ahx(n,A.av(A.Gk(j.d,i),l,m))
 l=A.av(i,10*$.C().gao(),i)
 n=s?A.ay(i,i,i,i,i,i,i,i,i,i,i,$.C().ab(11),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).ux(g,B.e8,B.z):A.ay(i,i,i,i,i,i,i,i,i,i,i,$.C().ab(15),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).ux(g,B.e8,B.z)
-p.push(A.vP(!1,o,!0,new A.cj(B.lq,A.cK(A.a([m,l,A.bZ(h+" - Google play",i,i,n)],q),B.a5,B.y,B.x),i),i,!0,i,i,i,i,i,i,i,i,i,new A.Uj(j),i,i,i,i))}if(j.f!=null){o=A.av(i,i,50*$.C().gbm())
+p.push(A.vP(!1,o,!0,new A.cj(B.lq,A.cK(A.a([m,l,A.bZ(h+" - Google play",i,i,n)],q),B.a5,B.y,B.x),i),i,!0,i,i,i,i,i,i,i,i,i,new A.Uj(j),i,i,i,i))
+if(j.f!=null){o=A.av(i,i,50*$.C().gbm())
 n=$.C()
 n=A.hh(10*Math.min(n.gbm(),n.gao()))
 m=$.C()
@@ -74451,7 +74452,7 @@ $S:0}
 A.u_.prototype={
 I(a){var s=null,r=t.c.a(A.a3(a).c.k(0,A.bh(t.A))),q=r==null?s:r.a
 r=this.c
-return A.cK(A.a([A.bZ("Applications",s,s,r?A.ay(s,s,s,s,s,s,s,s,s,s,s,$.C().ab(21),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bA(q,B.Y):A.ay(s,s,s,s,s,s,s,s,s,s,s,$.C().ab(34),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bA(q,B.Y)),A.av(s,50*$.C().gao(),s),new A.kq("Bunyan Plus","assets/png/bunyan_plus_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.bunyan&hl=en","https://apps.apple.com/tt/app/bunyan-plus/id6444227473",r,s),A.av(s,50*$.C().gao(),s),new A.kq("GK Auto","assets/png/gk_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.gkAuto&hl=en","https://apps.apple.com/nl/app/gk-auto-mg-iraq/id6467194629",r,s),A.av(s,50*$.C().gao(),s),new A.kq("Clock hyper market","assets/png/clock_market_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.clockMarket","https://apps.apple.com/us/app/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1-%D9%85%D8%A7%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9/id6670540510",r,s),A.av(s,50*$.C().gao(),s),new A.kq("Sadaf Inv","assets/png/sadaf_logo.png","https://play.google.com/store/apps/details?id=com.hightech.sadaf_application&hl=en_US",s,r,s),A.av(s,50*$.C().gao(),s),new A.kq("Fashion Ecommerce","assets/png/fashion_logo.png",s,"https://apps.apple.com/us/app/fashion-ecommerce/id6504250868",r,s)],t.p),B.a_,B.y,B.x)}}
+return A.cK(A.a([A.bZ("Applications",s,s,r?A.ay(s,s,s,s,s,s,s,s,s,s,s,$.C().ab(21),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bA(q,B.Y):A.ay(s,s,s,s,s,s,s,s,s,s,s,$.C().ab(34),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bA(q,B.Y)),A.av(s,50*$.C().gao(),s),new A.kq("Bunyan Plus","assets/png/bunyan_plus_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.bunyan&hl=en","https://apps.apple.com/tt/app/bunyan-plus/id6444227473",r,s),A.av(s,50*$.C().gao(),s),new A.kq("GK Auto","assets/png/gk_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.gkAuto&hl=en","https://apps.apple.com/nl/app/gk-auto-mg-iraq/id6467194629",r,s),A.av(s,50*$.C().gao(),s),new A.kq("Clock hyper market","assets/png/clock_market_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.clockMarket","https://apps.apple.com/us/app/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1-%D9%85%D8%A7%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9/id6670540510",r,s),A.av(s,50*$.C().gao(),s),new A.kq("Fashion Ecommerce","assets/png/fashion_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ecommerceFashion","https://apps.apple.com/us/app/fashion-ecommerce/id6504250868",r,s),A.av(s,50*$.C().gao(),s),new A.kq("Sadaf Inv","assets/png/sadaf_logo.png","https://play.google.com/store/apps/details?id=com.hightech.sadaf_application&hl=en_US",s,r,s)],t.p),B.a_,B.y,B.x)}}
 A.v0.prototype={
 I(a){var s,r,q,p,o=null,n=t.c.a(A.a3(a).c.k(0,A.bh(t.A))),m=n==null?o:n.a
 n=this.c
