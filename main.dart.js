@@ -68746,7 +68746,7 @@ m=A.ahO(n,A.aw(A.Fu(j.d,i),l,m))
 l=A.aw(i,10*$.B().gal(),i)
 n=s?A.aA(i,i,i,i,i,i,i,i,i,i,i,$.B().ac(11),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).tn(g,B.dS,B.z):A.aA(i,i,i,i,i,i,i,i,i,i,i,$.B().ac(15),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).tn(g,B.dS,B.z)
 p.push(A.FA(!1,o,!0,new A.ci(B.kG,A.cA(A.b([m,l,A.bW(h+" - Google play",i,i,n)],q),B.Y,B.w,B.y),i),i,!0,i,i,i,i,i,i,i,i,i,new A.Ta(j),i,i,i,i))
-if(j.f!=null){o=A.aw(i,i,50*$.B().gbi())
+o=A.aw(i,i,50*$.B().gbi())
 n=$.B()
 n=A.h2(10*Math.min(n.gbi(),n.gal()))
 m=$.B()
@@ -68756,7 +68756,8 @@ k=s?50*$.B().gbi():100*$.B().gbi()
 l=A.ahO(m,A.aw(A.Fu(j.d,i),k,l))
 k=A.aw(i,10*$.B().gal(),i)
 s=s?A.aA(i,i,i,i,i,i,i,i,i,i,i,$.B().ac(11),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).tn(g,B.dS,B.z):A.aA(i,i,i,i,i,i,i,i,i,i,i,$.B().ac(15),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).tn(g,B.dS,B.z)
-B.b.N(p,A.b([o,A.FA(!1,n,!0,new A.ci(B.kG,A.cA(A.b([l,k,A.bW(h+" - Apple Store",i,i,s)],q),B.Y,B.w,B.y),i),i,!0,i,i,i,i,i,i,i,i,i,new A.Tb(j),i,i,i,i)],q))}return A.cA(A.b([r,A.fh(p,B.Y,B.qd,B.y)],q),B.M,B.w,B.y)}}
+B.b.N(p,A.b([o,A.FA(!1,n,!0,new A.ci(B.kG,A.cA(A.b([l,k,A.bW(h+" - Apple Store",i,i,s)],q),B.Y,B.w,B.y),i),i,!0,i,i,i,i,i,i,i,i,i,new A.Tb(j),i,i,i,i)],q))
+return A.cA(A.b([r,A.fh(p,B.Y,B.qd,B.y)],q),B.M,B.w,B.y)}}
 A.Ta.prototype={
 $0(){$.Cx().ky("open",[this.a.e])},
 $S:0}
@@ -68766,7 +68767,7 @@ $S:0}
 A.ty.prototype={
 I(a){var s=null,r=t.O.a(A.a4(a).c.k(0,A.bg(t.A))),q=r==null?s:r.a
 r=this.c
-return A.cA(A.b([A.bW("Applications",s,s,r?A.aA(s,s,s,s,s,s,s,s,s,s,s,$.B().ac(21),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bv(q,B.T):A.aA(s,s,s,s,s,s,s,s,s,s,s,$.B().ac(34),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bv(q,B.T)),A.aw(s,50*$.B().gal(),s),new A.k9("Bunyan Plus","assets/png/bunyan_plus_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.bunyan&hl=en","https://apps.apple.com/tt/app/bunyan-plus/id6444227473",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("GK Auto","assets/png/gk_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.newGkAuto","https://apps.apple.com/nl/app/gk-auto-mg-iraq/id6467194629",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("Clock hyper market","assets/png/clock_market_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.clockMarket","https://apps.apple.com/us/app/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1-%D9%85%D8%A7%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9/id6670540510",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("Fashion Ecommerce","assets/png/fashion_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ecommerceFashion","https://apps.apple.com/us/app/fashion-ecommerce/id6504250868",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("Sadaf Inv","assets/png/sadaf_logo.png","https://play.google.com/store/apps/details?id=com.hightech.sadaf_application&hl=en_US",s,r,s)],t.p),B.M,B.w,B.y)}}
+return A.cA(A.b([A.bW("Applications",s,s,r?A.aA(s,s,s,s,s,s,s,s,s,s,s,$.B().ac(21),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bv(q,B.T):A.aA(s,s,s,s,s,s,s,s,s,s,s,$.B().ac(34),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bv(q,B.T)),A.aw(s,50*$.B().gal(),s),new A.k9("Bunyan Plus","assets/png/bunyan_plus_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.bunyan&hl=en","https://apps.apple.com/tt/app/bunyan-plus/id6444227473",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("GK Auto","assets/png/gk_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.newGkAuto","https://apps.apple.com/nl/app/gk-auto-mg-iraq/id6467194629",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("Clock hyper market","assets/png/clock_market_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.clockMarket","https://apps.apple.com/us/app/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1-%D9%85%D8%A7%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9/id6670540510",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("Fashion Ecommerce","assets/png/fashion_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ecommerceFashion","https://apps.apple.com/us/app/fashion-ecommerce/id6504250868",r,s),A.aw(s,50*$.B().gal(),s),new A.k9("Sadaf Inv","assets/png/sadaf_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.sadaf_application","https://apps.apple.com/be/app/sadaf/id1584547953",r,s)],t.p),B.M,B.w,B.y)}}
 A.uE.prototype={
 I(a){var s=null,r=t.O.a(A.a4(a).c.k(0,A.bg(t.A))),q=r==null?s:r.a
 r=this.c
