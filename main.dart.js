@@ -70399,7 +70399,7 @@ m=A.aiB(n,A.aq(A.Gh(j.d,i),l,m))
 l=A.aq(i,10*$.C().gao(),i)
 n=s?A.aA(i,i,i,i,i,i,i,i,i,i,i,$.C().ad(11),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).u_(g,B.dZ,B.B):A.aA(i,i,i,i,i,i,i,i,i,i,i,$.C().ad(15),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).u_(g,B.dZ,B.B)
 p.push(A.Gn(!1,o,!0,new A.cn(B.kW,A.cE(A.b([m,l,A.c_(h+" - Google play",i,i,n)],q),B.a0,B.x,B.A),i),i,!0,i,i,i,i,i,i,i,i,i,new A.TM(j),i,i,i,i))
-if(j.f!=null){o=A.aq(i,i,50*$.C().gbm())
+o=A.aq(i,i,50*$.C().gbm())
 n=$.C()
 n=A.eH(10*Math.min(n.gbm(),n.gao()))
 m=$.C()
@@ -70409,7 +70409,8 @@ k=s?50*$.C().gbm():100*$.C().gbm()
 l=A.aiB(m,A.aq(A.Gh(j.d,i),k,l))
 k=A.aq(i,10*$.C().gao(),i)
 s=s?A.aA(i,i,i,i,i,i,i,i,i,i,i,$.C().ad(11),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).u_(g,B.dZ,B.B):A.aA(i,i,i,i,i,i,i,i,i,i,i,$.C().ad(15),i,i,i,i,i,!0,i,i,i,i,i,i,i,i).u_(g,B.dZ,B.B)
-B.b.N(p,A.b([o,A.Gn(!1,n,!0,new A.cn(B.kW,A.cE(A.b([l,k,A.c_(h+" - Apple Store",i,i,s)],q),B.a0,B.x,B.A),i),i,!0,i,i,i,i,i,i,i,i,i,new A.TN(j),i,i,i,i)],q))}return A.cE(A.b([r,A.fo(p,B.a0,B.qx,B.A)],q),B.O,B.x,B.A)}}
+B.b.N(p,A.b([o,A.Gn(!1,n,!0,new A.cn(B.kW,A.cE(A.b([l,k,A.c_(h+" - Apple Store",i,i,s)],q),B.a0,B.x,B.A),i),i,!0,i,i,i,i,i,i,i,i,i,new A.TN(j),i,i,i,i)],q))
+return A.cE(A.b([r,A.fo(p,B.a0,B.qx,B.A)],q),B.O,B.x,B.A)}}
 A.TM.prototype={
 $0(){$.Dm().kP("open",[this.a.e])},
 $S:0}
@@ -70419,7 +70420,7 @@ $S:0}
 A.u7.prototype={
 K(a){var s=null,r=t.O.a(A.a2(a).c.k(0,A.be(t.A))),q=r==null?s:r.a
 r=this.c
-return A.cE(A.b([A.c_("Applications",s,s,r?A.aA(s,s,s,s,s,s,s,s,s,s,s,$.C().ad(21),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bx(q,B.X):A.aA(s,s,s,s,s,s,s,s,s,s,s,$.C().ad(34),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bx(q,B.X)),A.aq(s,50*$.C().gao(),s),new A.i_("Bunyan Plus","assets/png/bunyan_plus_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.bunyan&hl=en","https://apps.apple.com/tt/app/bunyan-plus/id6444227473",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("GK Auto","assets/png/gk_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.newGkAuto","https://apps.apple.com/nl/app/gk-auto-mg-iraq/id6467194629",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("Clock hyper market","assets/png/clock_market_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.clockMarket","https://apps.apple.com/us/app/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1-%D9%85%D8%A7%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9/id6670540510",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("Fashion Ecommerce","assets/png/fashion_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ecommerceFashion","https://apps.apple.com/us/app/fashion-ecommerce/id6504250868",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("Sadaf Inv","assets/png/sadaf_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.sadaf_application","https://apps.apple.com/be/app/sadaf/id1584547953",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("\u0628\u0646\u0632 \u0627\u0644\u0641\u0646\u064a","assets/png/electrician-logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ataaElectrician",s,r,s),A.aq(s,50*$.C().gao(),s),new A.i_("\u0628\u0646\u0632 \u0627\u0644\u0648\u0643\u064a\u0644","assets/png/merchant-logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ataaElectricianMerchant",s,r,s)],t.p),B.O,B.x,B.A)}}
+return A.cE(A.b([A.c_("Applications",s,s,r?A.aA(s,s,s,s,s,s,s,s,s,s,s,$.C().ad(21),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bx(q,B.X):A.aA(s,s,s,s,s,s,s,s,s,s,s,$.C().ad(34),s,s,s,s,s,!0,s,s,s,s,s,s,s,s).bx(q,B.X)),A.aq(s,50*$.C().gao(),s),new A.i_("Bunyan Plus","assets/png/bunyan_plus_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.bunyan&hl=en","https://apps.apple.com/tt/app/bunyan-plus/id6444227473",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("GK Auto","assets/png/gk_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.newGkAuto","https://apps.apple.com/nl/app/gk-auto-mg-iraq/id6467194629",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("Clock hyper market","assets/png/clock_market_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.clockMarket","https://apps.apple.com/us/app/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1-%D9%85%D8%A7%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9/id6670540510",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("Fashion Ecommerce","assets/png/fashion_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ecommerceFashion","https://apps.apple.com/us/app/fashion-ecommerce/id6504250868",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("Sadaf Inv","assets/png/sadaf_logo.png","https://play.google.com/store/apps/details?id=com.osoustech.sadaf_application","https://apps.apple.com/be/app/sadaf/id1584547953",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("\u0628\u0646\u0632 \u0627\u0644\u0641\u0646\u064a","assets/png/electrician-logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ataaElectrician","https://apps.apple.com/us/app/%D8%A8%D9%86%D8%B2-%D8%A7%D9%84%D9%81%D9%86%D9%8A/id6742101831",r,s),A.aq(s,50*$.C().gao(),s),new A.i_("\u0628\u0646\u0632 \u0627\u0644\u0648\u0643\u064a\u0644","assets/png/merchant-logo.png","https://play.google.com/store/apps/details?id=com.osoustech.ataaElectricianMerchant","https://apps.apple.com/us/app/%D8%A8%D9%86%D8%B2-%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84/id6742103131",r,s)],t.p),B.O,B.x,B.A)}}
 A.vg.prototype={
 K(a){var s=null,r=t.O.a(A.a2(a).c.k(0,A.be(t.A))),q=r==null?s:r.a
 r=this.c
