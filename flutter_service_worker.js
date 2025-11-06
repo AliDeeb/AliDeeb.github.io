@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "3f8db5e4beb5ca67361e1b284db44abd",
-"assets/AssetManifest.bin.json": "c31e1209bb510c72ccfa84b2c85aae21",
-"assets/AssetManifest.json": "4681e10dfb089e104488bf31d4b761c9",
+const RESOURCES = {"assets/AssetManifest.bin": "4e8659ae2d3ab89051106a153a4d7ecc",
+"assets/AssetManifest.bin.json": "3c79ac37670acaf98dda03f3d0d35cc0",
+"assets/AssetManifest.json": "1ed5de2c8a4a865fbd3321ab1a89bc05",
 "assets/assets/png/androidstudio_logo.png": "e0f42398b994b763aed7ea9941e1521f",
 "assets/assets/png/bunyan_plus_logo.png": "3c4b4976f9b7a7c219994980152ec78a",
 "assets/assets/png/clock_market_logo.png": "4565f39b741877096fd4b5f1276349a5",
+"assets/assets/png/darbak_captain_logo.png": "f7aa98491f7c06743c8dfccf8e1dfe7e",
+"assets/assets/png/darbak_logo.png": "e8687f1b421c66a2aca0ac36ee5ed836",
 "assets/assets/png/dart_logo.png": "8e8daf22d38b88c16af205640cf51f86",
 "assets/assets/png/devops_logo.png": "d5fa9e7146994b5af4890cc8b2a7ad45",
 "assets/assets/png/electrician-logo.png": "032ace5bfd7d0219b648fb7c5739e30f",
@@ -19,6 +21,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3f8db5e4beb5ca67361e1b284db44abd
 "assets/assets/png/gitlab_logo.png": "6950bd3145f33c9d9392b5c7355bb62a",
 "assets/assets/png/git_logo.png": "f09b56db1a0478b5145d6fa921601ac8",
 "assets/assets/png/gk_logo.png": "769396bb4f738615dd471861a460b5f8",
+"assets/assets/png/hazal_logo.png": "ca5009539a8ca8941a3f53bf1abec038",
 "assets/assets/png/linkedin_logo.png": "c2a7cd33e345fc394f1d075240e311d4",
 "assets/assets/png/man_face.png": "ce4cec0c4e3119ca6caba1fe93c3347d",
 "assets/assets/png/merchant-logo.png": "5d9af35b7fc6d437ec06800a2f2da8b7",
@@ -44,16 +47,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "3f8db5e4beb5ca67361e1b284db44abd
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "4c477625bd6a7e67d45a3796f0280e6d",
+"flutter_bootstrap.js": "475539c60a9c392016d8723109114633",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "817c112679424dd8ba61fd0a0e33c1cc",
-"/": "817c112679424dd8ba61fd0a0e33c1cc",
-"main.dart.js": "397a1400ea4cc704ff7577f5bcad2e3c",
+"index.html": "00c46f6d61f29606bbd848208d5a67fd",
+"/": "00c46f6d61f29606bbd848208d5a67fd",
+"main.dart.js": "2c74b73d6ab456f1846cf17e306850e4",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
-"version.json": "b2573e136259da5435c3e00f68e7ea24"};
+"version.json": "1fcaed7142162929092011d2516edbd9"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
